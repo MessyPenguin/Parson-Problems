@@ -1,5 +1,5 @@
-# Parsons Practice
-## Parsons 1 (Line Based Grader)
+# Parsons Problem
+## File Input // Output
 
 <div id="sortableTrash" class="sortable-code"></div> 
 <div id="sortable" class="sortable-code"></div> 
